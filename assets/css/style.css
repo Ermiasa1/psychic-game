@@ -1,0 +1,30 @@
+
+body{background-color: lightblue;
+
+}
+    
+#div1 {font-size: 24px;    
+     height: 30px;
+    background-color: bisque;
+    text-align: center;
+    font-style: bold;
+    padding-top: 10px;
+}
+#head{font-size: 18px;    
+    height: 30px;
+
+}
+#image{ padding-left: 24px;
+    padding-top: 10px;
+    align-content: center;
+    width: 80%;
+    height: 350px ;
+}
+#game{ font-size: 18px;
+    font-family: Georgia;
+    line-height: 20px;
+    width: 60%;
+    padding-left: 24px;
+    padding-top: 10px;
+}
+
